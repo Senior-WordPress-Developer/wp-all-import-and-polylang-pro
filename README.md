@@ -22,4 +22,4 @@ This plugin integrates **WP All Import Pro** with **Polylang Pro**, enabling mul
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/wp-all-import-polylang-extended.git
+   git clone https://github.com/Senior-WordPress-Developer/wp-all-import-and-polylang-pro.git
